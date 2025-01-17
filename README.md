@@ -9,7 +9,7 @@ Hi there! I'm Justin Wang, a second-year honors student at Northeastern Universi
 - **Tools:** GitHub, GitHub Actions, CI/CD Pipelines, Vercel, Heroku, JawsDB, Supabase, MySQL, Docker, Command Line, Kubernetes, MiniKube
 
 ## 📫 How to Reach Me
-- LinkedIn: [LinkedIn](www.linkedin.com/in/justin-wang-209a33176)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/justin-wang110)
 
 <!--
 **Juwang110/Juwang110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
