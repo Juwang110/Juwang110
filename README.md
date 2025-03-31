@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Welcome to My GitHub Profile
 
-Hi there! I'm Justin Wang, a second-year honors student at Northeastern University. I'm majoring in Computer Science with a concentration in Systems and a Minor in Music. 
+Hi there! I'm Justin Wang, an honors student at Northeastern University. I'm majoring in Computer Science with a concentration in Systems and a Minor in Music. 
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Java, JavaScript/TypeScript, C, SQL, HTML/CSS, C++, Git, Python, DrRacket, Assembly
