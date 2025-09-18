@@ -4,9 +4,9 @@
 Hi there! I'm Justin Wang, an honors student at Northeastern University. I'm majoring in Computer Science with a concentration in Systems and a Minor in Music. 
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Java, JavaScript/TypeScript, C, SQL, HTML/CSS, C++, Git, Python, DrRacket, Assembly
-- **Frameworks:** React, Tailwind CSS, Flask, Streamlit, FUSE ©, Node.js, Next.js
-- **Tools:** GitHub, GitHub Actions, CI/CD Pipelines, Vercel, Heroku, JawsDB, Supabase, MySQL, Docker, Command Line, Kubernetes, MiniKube
+- **Languages:** Java, C#, JavaScript/TypeScript, C, SQL, HTML/CSS, C++, Git, Python, DrRacket, Assembly
+- **Frameworks:** React, Tailwind CSS, .NET, Flask, Streamlit, FUSE ©, Node.js, Nest.js
+- **Tools:** GitHub, GitHub Actions, CI/CD Pipelines, Vercel, Heroku, JawsDB, Supabase, MySQL, Docker, Command Line, Kubernetes, MiniKube, Winforms
 
 ## 📫 How to Reach Me
 - LinkedIn: [LinkedIn](www.linkedin.com/in/justin-wang110)
